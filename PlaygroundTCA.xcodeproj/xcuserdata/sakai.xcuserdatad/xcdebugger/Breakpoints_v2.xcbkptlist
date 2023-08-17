@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CBB14EE5-7F73-4CD7-9551-645236A4037B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8AD97D34-CE5C-4AA6-B638-5AF33FD38173"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlaygroundTCA/Cores/Tab1RootCore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5AF92C32-B97B-4205-A246-47C52D90107D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlaygroundTCA/Cores/DelegateActionChild1Core.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "5AF92C32-B97B-4205-A246-47C52D90107D - fa1f96c71216587f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (inout PlaygroundTCA.DelegateActionChild1Core.State, PlaygroundTCA.DelegateActionChild1Core.Action) -&gt; ComposableArchitecture.EffectPublisher&lt;PlaygroundTCA.DelegateActionChild1Core.Action, Swift.Never&gt; in PlaygroundTCA.DelegateActionChild1Core.body.getter : some"
+                  moduleName = "PlaygroundTCA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sakai/XcodeProject/PlaygroundTCA/PlaygroundTCA/Cores/DelegateActionChild1Core.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "98">
+               </Location>
+               <Location
+                  uuid = "5AF92C32-B97B-4205-A246-47C52D90107D - fa1f96c71216587f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (inout PlaygroundTCA.DelegateActionChild1Core.State, PlaygroundTCA.DelegateActionChild1Core.Action) -&gt; ComposableArchitecture.EffectPublisher&lt;PlaygroundTCA.DelegateActionChild1Core.Action, Swift.Never&gt; in PlaygroundTCA.DelegateActionChild1Core.body.getter : some"
+                  moduleName = "PlaygroundTCA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sakai/XcodeProject/PlaygroundTCA/PlaygroundTCA/Cores/DelegateActionChild1Core.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "135">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CECC17AF-92E9-4400-B28F-41989A43D08E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlaygroundTCA/Cores/Tab1RootCore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
